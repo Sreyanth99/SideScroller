@@ -20,7 +20,7 @@ A special sound is made to indicate when all the coins are collected
 again in the main player controller script to get the player position and disable the controller
 while the player is on the ledge.
 
-
+Run "Sidescroller.exe" to play
 
 ![image](https://github.com/user-attachments/assets/719c31fe-88be-4e1a-acae-7a7248a61228)
 
